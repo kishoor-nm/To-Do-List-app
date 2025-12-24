@@ -14,4 +14,4 @@ A simple web-based To-Do List application built using HTML, CSS, and JavaScript.
 - Mark tasks as completed
 
 ## 🌐 Live Demo
-[Open To-Do List App](https://kishoor-nm.github.io/todo-app/)
+[Open To-Do List App]([https://kishoor-nm.github.io/todo-app/])
