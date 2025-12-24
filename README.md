@@ -12,3 +12,6 @@ A simple web-based To-Do List application built using HTML, CSS, and JavaScript.
 - Add tasks
 - Delete tasks
 - Mark tasks as completed
+
+## 🌐 Live Demo
+[Open To-Do List App](https://kishoor-nm.github.io/todo-app/)
